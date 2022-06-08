@@ -6,15 +6,19 @@
 
 Em busca de práticar e evoluir o conhecimento de desenvolvimento web, resolvi participar da Next Level Week, evento no qual desenvolvemos um site com uma semana imersiva cheia de aprendizados.
 
-## :computer: Origin Six
+## :computer: ROCKET.Q
 
-[OriginSix](https://juuanmatheus.github.io/OriginSix/) é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer.
+O ROCKET.Q é uma aplicação de interação através de perguntas, sendo possível criar uma sala para internautas anônimos fazerem perguntas e o criador da sala em posse de uma senha gerenciar essas perguntas e marcar como lidas.
 
 ## :robot: Tecnologias
 
 :orange_circle: HTML
 :large_blue_circle: CSS
 :yellow_circle: JS
+NodeJS
+EJS
+Express
+SQLite
 
 ## :rocket: Autor
 
