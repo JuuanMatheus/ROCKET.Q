@@ -18,7 +18,7 @@ O ROCKET.Q é uma aplicação de interação através de perguntas, sendo possí
 :large_blue_circle: CSS
 :yellow_circle: JS
 :green_circle: NodeJS
-:large_green_circle: EJS
+:green_circle: EJS
 :white_circle: Express
 :purple_circle: SQLite
 
