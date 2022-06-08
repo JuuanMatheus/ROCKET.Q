@@ -1,4 +1,5 @@
 # ROCKET.Q
+
 ![capa](https://user-images.githubusercontent.com/79922114/172733587-5f80cec4-34e7-427f-8df7-4eaefc646d78.png)
 
 ![GitHub](https://img.shields.io/github/license/JuuanMatheus/NLW-6)
@@ -16,10 +17,10 @@ O ROCKET.Q é uma aplicação de interação através de perguntas, sendo possí
 :orange_circle: HTML
 :large_blue_circle: CSS
 :yellow_circle: JS
-NodeJS
-EJS
-Express
-SQLite
+:green_circle: NodeJS
+:dark_gree_circle: EJS
+:white_circle: Express
+:purple_circle: SQLite
 
 ## :rocket: Autor
 
