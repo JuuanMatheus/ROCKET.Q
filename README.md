@@ -4,7 +4,7 @@
 
 ![capa](https://user-images.githubusercontent.com/79922114/172733587-5f80cec4-34e7-427f-8df7-4eaefc646d78.png)
 
-## :test_tube: Sobre o Projeto
+## :new_moon: Sobre o Projeto
 
 Em busca de práticar e evoluir o conhecimento de desenvolvimento web, resolvi participar da Next Level Week, evento no qual desenvolvemos um site com uma semana imersiva cheia de aprendizados.
 
@@ -22,7 +22,7 @@ O ROCKET.Q é uma aplicação de interação através de perguntas, sendo possí
 :white_circle: Express
 :purple_circle: SQLite
 
-## :rocket: Autor
+## :artificial_satellite:: Autor
 
 - Empresa realizadora do Projeto: [Rocketseat](https://rocketseat.com.br/)
 - Instrutor do Projeto: [Mayk Brito](https://github.com/maykbrito)
