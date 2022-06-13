@@ -1,8 +1,8 @@
 # ROCKET.Q
 
-![capa](https://user-images.githubusercontent.com/79922114/172733587-5f80cec4-34e7-427f-8df7-4eaefc646d78.png)
-
 ![GitHub](https://img.shields.io/github/license/JuuanMatheus/NLW-6)
+
+![capa](https://user-images.githubusercontent.com/79922114/172733587-5f80cec4-34e7-427f-8df7-4eaefc646d78.png)
 
 ## :test_tube: Sobre o Projeto
 
